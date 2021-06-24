@@ -26,7 +26,7 @@ composer install emergingtravel/papi-sdk-php
 
 To start using ETG APIv3 you need a key, which you received after registration. 
 A key is a combination of an `id` and `uuid`. These are passed into each request as a Basic Auth header after initialization.
-`APIv3` supports all arguments provided by [requests](https://github.com/psf/requests), ex. `timeout`.
+`APIv3` supports all arguments provided by [guzzle](https://github.com/guzzle/guzzle).
 
 ```php
 require 'vendor/autoload.php';
