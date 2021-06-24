@@ -1,0 +1,24 @@
+{
+    "name": "emerging-travel/papi-sdk",
+    "description": "pAPI SDK is a PHP SDK for ETG APIv3",
+    "type": "library",
+    "license": "MIT",
+    "version": "v0.0.1",
+    "authors": [
+        {
+            "name": "Emerging Travel Group",
+            "homepage": "https://www.emergingtravel.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PAPI\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2.5 || ^8.0",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.3",
+        "netresearch/jsonmapper": "^4.0"
+    }
+}
