@@ -21,7 +21,7 @@ The package depends on the following:
 ## Installation
 
 ```
-composer install emerging-travel/papi-sdk
+composer install emerging-travel/papi-sdk-php
 ```
 
 ## Quickstart
