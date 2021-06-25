@@ -3,7 +3,7 @@
     "description": "pAPI SDK is a PHP SDK for ETG APIv3",
     "type": "library",
     "license": "MIT",
-    "version": "v0.0.2",
+    "version": "v0.0.4",
     "authors": [
         {
             "name": "Emerging Travel Group",
