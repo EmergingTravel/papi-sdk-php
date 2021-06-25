@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.4 (2021-06-25)
+
+- Fix package version
+
 ## v0.0.3 (2021-06-25)
 
 - Rename composer package to `papi-sdk-php` to align with the repository name
