@@ -1,5 +1,5 @@
 {
-    "name": "emerging-travel/papi-sdk",
+    "name": "emerging-travel/papi-sdk-php",
     "description": "pAPI SDK is a PHP SDK for ETG APIv3",
     "type": "library",
     "license": "MIT",
