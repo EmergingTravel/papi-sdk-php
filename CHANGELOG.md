@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.0.3 (2021-06-25)
+
+- Rename composer package to `papi-sdk-php` to align with the repository name
+- Minor readme changes
+
 ## v0.0.2 (2021-06-24)
 
 Fix readme typo related to guzzle.
