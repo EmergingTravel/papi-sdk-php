@@ -1,5 +1,10 @@
 # Changelog
 
+## unreleased
+
+- Fix badges in readme
+- Fix readme notes on installation with composer
+
 ## v0.0.4 (2021-06-25)
 
 - Fix package version

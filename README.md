@@ -2,8 +2,8 @@
 
 ![main workflow](https://github.com/emergingtravel/papi-sdk-python/workflows/Main/badge.svg)
 ![license](https://img.shields.io/github/license/emergingtravel/papi-sdk-python.svg)
-![downloads/month](https://img.shields.io/packagist/dm/emerging-travel/papi-sdk)
-![php version](https://img.shields.io/packagist/php-v/emerging-travel/papi-sdk)
+![downloads/month](https://img.shields.io/packagist/dm/emerging-travel/papi-sdk-php)
+![php version](https://img.shields.io/packagist/php-v/emerging-travel/papi-sdk-php)
 
 pAPI SDK is a PHP SDK for [ETG APIv3](https://docs.emergingtravel.com/).
 The abbreviation "pAPI" stands for "Partner API". 
@@ -20,8 +20,8 @@ The package depends on the following:
 
 ## Installation
 
-```
-composer install emerging-travel/papi-sdk-php
+```shell
+composer require emerging-travel/papi-sdk-php
 ```
 
 ## Quickstart
